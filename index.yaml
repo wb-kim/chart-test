@@ -9,6 +9,6 @@ entries:
     name: test-chart
     type: application
     urls:
-    - https://github.com/wb-kim/chart-test.git/test-0.1.0.tgz
+    - https://wb-kim.github.io/chart-test/test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-02-24T09:32:29.864672273+09:00"
