@@ -3,7 +3,17 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T16:57:17.93767661+09:00"
+    created: "2023-02-24T17:52:03.76276055+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 9324153d5d00c024f2621a2bd64b523e013203fcc531a669c41a10757bd92feb
+    name: test-chart
+    type: application
+    urls:
+    - test-chart-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-24T17:52:03.753007635+09:00"
     description: A Helm chart for Kubernetes
     digest: 96f5d7dd2957c5ae2d2817cf5520c00e3d0f8a55d85091de9dc9d2a6399622cc
     name: test-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T16:57:17.930760258+09:00"
+    created: "2023-02-24T17:52:03.746060248+09:00"
     description: A Helm chart for Kubernetes
     digest: 225f5e3b2636b1da9f8172f39502c652ed45fbc01f4bc660c4b4c275811d3d1f
     name: test-chart
@@ -23,7 +33,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T16:57:17.921564297+09:00"
+    created: "2023-02-24T17:52:03.736978067+09:00"
     description: A Helm chart for Kubernetes
     digest: 8ec57b9d9f23adde9dbd2dac4bcde7f6dd26fed853b3cf0cfa402ab32c41752e
     name: test-chart
@@ -33,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T16:57:17.914439994+09:00"
+    created: "2023-02-24T17:52:03.729669751+09:00"
     description: A Helm chart for Kubernetes
     digest: 74843d1c461e5b9b03b9807f7fdb69bbc658941738b4202c2ce19540e2078f3c
     name: test-chart
@@ -43,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T16:57:17.91364889+09:00"
+    created: "2023-02-24T17:52:03.72890878+09:00"
     description: A Helm chart for Kubernetes
     digest: fb73cea62245584d2e7d11fa9c2038330dd7c0a3641334ad5920d87f84cab623
     name: test-chart
@@ -51,4 +61,4 @@ entries:
     urls:
     - test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-24T16:57:17.91263114+09:00"
+generated: "2023-02-24T17:52:03.727897504+09:00"
