@@ -3,7 +3,17 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T10:54:25.980538569+09:00"
+    created: "2023-02-24T15:53:07.23836079+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 53304c087dcc907613aff66c00b1d4b5ea7e3bb82a4dc456900e6e48cea3f310
+    name: test-chart
+    type: application
+    urls:
+    - https://wb-kim.github.io/chart-test/test-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-24T15:53:07.230335317+09:00"
     description: A Helm chart for Kubernetes
     digest: 74843d1c461e5b9b03b9807f7fdb69bbc658941738b4202c2ce19540e2078f3c
     name: test-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-24T10:54:25.97975971+09:00"
+    created: "2023-02-24T15:53:07.229615877+09:00"
     description: A Helm chart for Kubernetes
     digest: fb73cea62245584d2e7d11fa9c2038330dd7c0a3641334ad5920d87f84cab623
     name: test-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://wb-kim.github.io/chart-test/test-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-24T10:54:25.978718328+09:00"
+generated: "2023-02-24T15:53:07.228566309+09:00"
